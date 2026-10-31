@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { createFileRoute } from "@tanstack/react-router";
 import {
-  ArrowDown, ArrowRight, ArrowUpRight, Brain, BookOpen, Bookmark,
-  Check, ChevronDown, Compass, Cpu, Layers3, Lightbulb, Menu, MessageCircle,
+  ArrowDown, ArrowRight, ArrowUpRight, Brain, BookOpen,
+  Check, ChevronDown, Cpu, Layers3, Lightbulb, Menu, MessageCircle,
   Network, Play, Sparkles, Target, X, Zap,
 } from "lucide-react";
 
